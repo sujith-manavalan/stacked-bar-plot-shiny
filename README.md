@@ -8,3 +8,5 @@ App can be used for making stacked or grouped bar plots for 2 categorical variab
 For additional inforamtion on how to plot go the help section in the app
 
 Example dataset will be automatically loaded when you start the app, tweak the plot accoriding to your preference
+
+current version works with 2 categorical variable and 1 numerical variable
