@@ -11,5 +11,12 @@ Example dataset will be automatically loaded when you start the app, tweak the p
 
 please not current version works with 2 categorical variable and 1 numerical variable
 
-![image](https://user-images.githubusercontent.com/121912517/210833605-3288a6f2-84b7-4249-adaa-df4bffad7e37.png)
+##User Interface
+
+![image](https://user-images.githubusercontent.com/121912517/210835009-b66367c6-71da-4d05-8196-4653f4fa7fe3.png)
+
+##Dowload section
+
+![image](https://user-images.githubusercontent.com/121912517/210835866-87e5c9a7-f7a1-47a1-8e8a-ab167a2d6d94.png)
+
 
