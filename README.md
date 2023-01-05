@@ -1,4 +1,5 @@
-<p style="text-align: center;">Stacked-bar-plot-shiny</p>
+<p ><h2><strong>Stacked-bar-plot-shiny</strong></h2></p>
+
 Interactive stacked-grouped bar plot in shiny application (R and HTML)
 
 stacked-bar-plot-shiny has an easy to use dark theme GUI and the plots can be customized easily. 
