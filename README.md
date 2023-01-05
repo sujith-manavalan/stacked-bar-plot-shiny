@@ -1,4 +1,4 @@
-<p ><h2><strong>Stacked-bar-plot-shiny</strong></h2></p>
+<p><h1><strong>Stacked-bar-plot-shiny</strong></h2></p>
 
 Interactive stacked-grouped bar plot in shiny application (R and HTML)
 
